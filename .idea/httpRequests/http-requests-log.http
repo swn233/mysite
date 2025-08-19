@@ -1,0 +1,10 @@
+POST http://127.0.0.1:8080/api/photos/upload
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-08-14T101908.200.html
+
+###
+
